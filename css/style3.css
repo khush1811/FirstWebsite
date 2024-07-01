@@ -1,0 +1,22 @@
+body{
+    background-image: url(../bg2.jpg);
+}
+
+.heading{
+    font-family: "Margarine";
+    font-size: 50px;
+}
+
+.image5{
+    width: 419px;
+    padding-right: 34px;
+}
+
+.container{
+    display: flex;
+}
+
+.text{
+    font-size: 50px;
+    font-family: "Permanent Marker";
+}
